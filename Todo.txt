@@ -1,0 +1,10 @@
+|X| Moda
+|X| Media
+|X| Mediana
+|X| Cuartil    kn/4      k(1+n)/4
+|X| Decil      kn/10     k(1+n)/10
+|X| Percentil  kn/100    k(1+n)/100
+|X| Display 
+|| Convertir Csv en Lista
+|| Inputs de percentiles
+|| Imprimir graficas y funciones en botones de UI
